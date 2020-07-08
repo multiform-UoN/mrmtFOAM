@@ -1,0 +1,84 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  6
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+FoamFile
+{
+    version     2.0;
+    format      ascii;
+    class       dictionary;
+    location    "system";
+    object      controlDict;
+}
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+
+application     scalarTransportFoam;
+
+startFrom       startTime;
+
+startTime       0;
+
+stopAt          endTime;
+
+endTime         10000000;
+
+deltaT          500;
+
+adjustTimeStep   true;
+
+maxCo           0.95;
+
+writeControl    runTime;
+
+writeInterval   10000;
+
+purgeWrite      0;
+
+writeFormat     ascii;
+
+writePrecision  6;
+
+writeCompression off;
+
+timeFormat      general;
+
+timePrecision   6;
+
+runTimeModifiable true;
+
+functions
+{
+    average
+    {
+        // Load the library containing the 'coded' functionObject
+        libs            ("libutilityFunctionObjects.so");
+
+        type coded;
+
+        // Name of on-the-fly generated functionObject
+        name average;
+
+        codeExecute
+        #{
+            // Lookup c
+            //Info<< "Looking up field c\n" << endl;
+            const volScalarField& cI = mesh().lookupObject<volScalarField>("c.Sphere1");
+	        const volScalarField& cM = mesh().lookupObject<volScalarField>("c");
+
+            dimensionedScalar aveCImm(fvc::domainIntegrate(cI)/gSum(mesh().V()));
+            dimensionedScalar aveCMob(fvc::domainIntegrate(cM)/gSum(mesh().V()));
+
+            std::ofstream file;
+            file.open("average.dat", std::ios::out | std::ios::app);
+            file << mesh().time().timeName()
+               << " " << aveCImm.value()
+               << " " << aveCMob.value()
+               <<"\n";
+        #};
+    }
+}
+
+// ************************************************************************* //

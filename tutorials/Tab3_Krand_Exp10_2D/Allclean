@@ -1,0 +1,7 @@
+#!/bin/bash
+
+rm *.log *.err 2> /dev/null 
+
+foamCleanTutorials --help
+
+

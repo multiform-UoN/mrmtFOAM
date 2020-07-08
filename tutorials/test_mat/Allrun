@@ -1,0 +1,3 @@
+blockMesh
+multiRateScalarTransportFoam > log
+sh plot.sh

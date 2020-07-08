@@ -1,0 +1,30 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  7
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+FoamFile
+{
+    version     2.0;
+    format      ascii;
+    class       dictionary;
+    object      setRandomFieldDict;
+}
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+
+field omega.Layer1;
+type logNormal;
+correlation exponential;
+Lcorr           (0.5 10 0.1);
+Kmean           0;
+Ksigma          1;
+periodic false;
+nterms 5;
+nfreq 30;
+printStats true;
+twoDimensional true;
+values (1e-10 1e-9  1e-8  1e-7);
+thresholds (0);
+thresholds2 (0.2);

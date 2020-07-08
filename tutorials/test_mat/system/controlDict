@@ -1,0 +1,83 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  6
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+FoamFile
+{
+    version     2.0;
+    format      ascii;
+    class       dictionary;
+    location    "system";
+    object      controlDict;
+}
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+
+application     multiRateScalarTransportFoam;
+
+startFrom       startTime;
+
+startTime       0;
+
+stopAt          endTime;
+
+endTime         100;
+
+deltaT          1e-2;
+
+writeControl    runTime;
+
+writeInterval   100;
+
+purgeWrite      0;
+
+writeFormat     binary;
+
+writePrecision  6;
+
+writeCompression off;
+
+timeFormat      general;
+
+timePrecision   6;
+
+runTimeModifiable true;
+
+functions
+{
+    breakthrough
+    {
+        // Load the library containing the 'coded' functionObject
+        libs            ("libutilityFunctionObjects.so");
+
+        type coded;
+
+        // Name of on-the-fly generated functionObject
+        name breakthrough;
+
+        codeExecute
+        #{
+            // Lookup c
+            //Info<< "Looking up field c\n" << endl;
+            const volScalarField& c = mesh().lookupObject<volScalarField>("c");
+
+            //Get outlet patch
+	        label patchId = mesh().boundaryMesh().findPatchID("outlet");
+	        const scalarField& cOut = c.boundaryField()[patchId];
+	
+	        scalar totFluxOut = gSum(cOut);
+
+            //if(mesh().time().write())
+            {
+                //std::ofstream file;
+                //file.open("breakthrough.dat", std::ios::out | std::ios::app);
+                Info << "breakthrough " <<  mesh().time().timeName()
+                    << " " << totFluxOut <<"\n";
+            }
+        #};
+    }
+}
+
+// ************************************************************************* //

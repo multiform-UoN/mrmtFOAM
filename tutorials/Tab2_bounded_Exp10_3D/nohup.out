@@ -1,0 +1,209 @@
+The systems contains the following immobile regions
+Layers: 0
+Spheres: 7
+Cylinders: 0
+
+Cleaning /home/pmzmi1/OpenFOAM/Nico/newPackedBed/DarcyFlowField case
+
+Starting Generation Flow Field
+
+Starting calculation with createmesh
+Starting calculation with setRandomField
+Starting calculation with simpleDarcyFoam
+
+Calculation flow field with simpleDarcyFoam Completed
+Moving to next steps
+
+Cleaning /home/pmzmi1/OpenFOAM/Nico/newPackedBed/bounded_Multirate case
+Mesh Preparation
+Starting calculation with createmesh
+VALUE 0.5
+VALUE 1.0
+Starting calculation with multiRateScalarTransportFoam
+The systems contains the following immobile regions
+Layers: 0
+Spheres: 7
+Cylinders: 0
+
+Cleaning /home/pmzmi1/OpenFOAM/Nico/newPackedBed/DarcyFlowField case
+
+Starting Generation Flow Field
+
+Starting calculation with createmesh
+Starting calculation with setRandomField
+Starting calculation with simpleDarcyFoam
+
+Calculation flow field with simpleDarcyFoam Completed
+Moving to next steps
+
+Cleaning /home/pmzmi1/OpenFOAM/Nico/newPackedBed/bounded_Multirate case
+Mesh Preparation
+Starting calculation with createmesh
+VALUE 0.5
+VALUE 1.0
+Starting calculation with multiRateScalarTransportFoam
+The systems contains the following immobile regions
+Layers: 0
+Spheres: 7
+Cylinders: 0
+
+Cleaning /home/pmzmi1/OpenFOAM/Nico/newPackedBed/bounded_Multirate case
+Mesh Preparation
+Starting calculation with createmesh
+VALUE 0.5
+VALUE 1.0
+Starting calculation with multiRateScalarTransportFoam
+The systems contains the following immobile regions
+Layers: 0
+Spheres: 7
+Cylinders: 0
+
+Cleaning /home/pmzmi1/OpenFOAM/Nico/newPackedBed/bounded_Multirate case
+Mesh Preparation
+Starting calculation with createmesh
+VALUE 0.5
+VALUE 1.0
+Starting calculation with multiRateScalarTransportFoam
+The systems contains the following immobile regions
+Layers: 0
+Spheres: 7
+Cylinders: 0
+
+Cleaning /home/pmzmi1/OpenFOAM/Nico/newPackedBed/bounded_Multirate case
+Mesh Preparation
+Starting calculation with createmesh
+VALUE 0.5
+VALUE 1.0
+Starting calculation with multiRateScalarTransportFoam
+The systems contains the following immobile regions
+Layers: 0
+Spheres: 7
+Cylinders: 0
+
+Cleaning /home/pmzmi1/OpenFOAM/Nico/newPackedBed/bounded_Multirate case
+Mesh Preparation
+Starting calculation with createmesh
+VALUE 0.5
+VALUE 1.0
+Starting calculation with multiRateScalarTransportFoam
+The systems contains the following immobile regions
+Layers: 0
+Spheres: 7
+Cylinders: 0
+
+Cleaning /home/pmzmi1/OpenFOAM/Nico/newPackedBed/bounded_Multirate case
+Mesh Preparation
+Starting calculation with createmesh
+VALUE 0.5
+VALUE 1.0
+Starting calculation with multiRateScalarTransportFoam
+The systems contains the following immobile regions
+Layers: 0
+Spheres: 7
+Cylinders: 0
+
+Cleaning /home/pmzmi1/OpenFOAM/Nico/newPackedBed/bounded_Multirate case
+Mesh Preparation
+Starting calculation with createmesh
+VALUE 0.5
+VALUE 1.0
+Starting calculation with multiRateScalarTransportFoam
+The systems contains the following immobile regions
+Layers: 0
+Spheres: 7
+Cylinders: 0
+
+Cleaning /home/pmzmi1/OpenFOAM/Nico/newPackedBed/bounded_Multirate case
+Mesh Preparation
+Starting calculation with createmesh
+VALUE 0.5
+VALUE 1.0
+Starting calculation with multiRateScalarTransportFoam
+The systems contains the following immobile regions
+Layers: 0
+Spheres: 7
+Cylinders: 0
+
+Cleaning /home/pmzmi1/OpenFOAM/Nico/newPackedBed/bounded_Multirate case
+Mesh Preparation
+Starting calculation with createmesh
+VALUE 0.5
+VALUE 1.0
+Starting calculation with multiRateScalarTransportFoam
+The systems contains the following immobile regions
+Layers: 0
+Spheres: 7
+Cylinders: 0
+
+Cleaning /home/pmzmi1/OpenFOAM/Nico/newPackedBed/bounded_Multirate case
+Mesh Preparation
+Starting calculation with createmesh
+VALUE 0.5
+VALUE 1.0
+Starting calculation with multiRateScalarTransportFoam
+The systems contains the following immobile regions
+Layers: 0
+Spheres: 7
+Cylinders: 0
+
+Cleaning /home/pmzmi1/OpenFOAM/Nico/newPackedBed/bounded_Multirate case
+Mesh Preparation
+Starting calculation with createmesh
+VALUE 0.5
+VALUE 1.0
+Starting calculation with multiRateScalarTransportFoam
+The systems contains the following immobile regions
+Layers: 0
+Spheres: 7
+Cylinders: 0
+
+Cleaning /home/pmzmi1/OpenFOAM/Nico/newPackedBed/bounded_Multirate case
+Mesh Preparation
+Starting calculation with createmesh
+VALUE 0.5
+VALUE 1.0
+Starting calculation with multiRateScalarTransportFoam
+The systems contains the following immobile regions
+Layers: 0
+Spheres: 7
+Cylinders: 0
+
+Cleaning /home/pmzmi1/OpenFOAM/Nico/newPackedBed/bounded_Multirate case
+Mesh Preparation
+Starting calculation with createmesh
+VALUE 0.5
+VALUE 1.0
+Starting calculation with multiRateScalarTransportFoam
+The systems contains the following immobile regions
+Layers: 0
+Spheres: 7
+Cylinders: 0
+
+Cleaning /home/pmzmi1/OpenFOAM/Nico/newPackedBed/bounded_Multirate case
+Mesh Preparation
+Starting calculation with createmesh
+VALUE 0.5
+VALUE 1.0
+Starting calculation with multiRateScalarTransportFoam
+The systems contains the following immobile regions
+Layers: 0
+Spheres: 7
+Cylinders: 0
+
+Cleaning /home/pmzmi1/OpenFOAM/Nico/newPackedBed/bounded_Multirate case
+Mesh Preparation
+Starting calculation with createmesh
+VALUE 0.5
+VALUE 1.0
+Starting calculation with multiRateScalarTransportFoam
+The systems contains the following immobile regions
+Layers: 0
+Spheres: 7
+Cylinders: 0
+
+Cleaning /home/pmzmi1/OpenFOAM/Nico/newPackedBed/bounded_Multirate case
+Mesh Preparation
+Starting calculation with createmesh
+VALUE 0.5
+VALUE 1.0
+Starting calculation with multiRateScalarTransportFoam

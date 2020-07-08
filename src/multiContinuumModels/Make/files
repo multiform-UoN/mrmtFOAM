@@ -1,0 +1,18 @@
+
+immobileRegions/immobileRegion/immobileRegion.C
+immobileRegions/immobileRegion/newImmobileRegion.C
+
+immobileRegions/Spheres/Spheres.C
+immobileRegions/Layers/Layers.C
+immobileRegions/Cylinders/Cylinders.C
+immobileRegions/FirstOrderRegions/FirstOrderRegions.C
+
+multiContinuumModel/multiContinuumModel.C
+multiContinuumModel/newMultiContinuumModel.C
+
+multiRateMassTransfer/multiRateMassTransfer.C
+
+multiContinuumControl/multiContinuumControl.C
+
+
+LIB = $(FOAM_USER_LIBBIN)/libmultiContinuumModels

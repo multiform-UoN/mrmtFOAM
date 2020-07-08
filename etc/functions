@@ -1,0 +1,36 @@
+#!/bin/bash
+
+executeCommandAll()
+{
+
+    dir=$(pwd)
+    echo ""
+    echo "Executing " $1 " in src/"
+    echo ""
+    cd src
+    srcDir=$(pwd)
+
+    cd multiContinuumModels
+    echo "  " "Executing " $1 "for libmultiContinuumModels"
+    $1
+    cd $srcDir
+
+    cd $dir
+
+    echo ""
+    echo "Executing " $1 " in applications/solvers"
+    echo ""
+    cd applications/solvers
+    solDir=$(pwd)
+
+    cd simpleDarcyFoam
+    echo "  " "Executing " $1 "for simpleDarcyFoam"
+    $1
+    cd $solDir
+
+    cd multiRateScalarTransportFoam
+    echo "  " "Executing " $1 "for multiRateScalarTransportFoam"
+    $1
+    cd $solDir
+
+}

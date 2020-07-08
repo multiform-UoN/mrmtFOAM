@@ -1,0 +1,2394 @@
+
+boxToCell
+{
+   box (0.000000 0.000000 -1) (0.052632 0.044444 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.256861
+       volScalarFieldValue beta.Sphere1  0.294949
+       volScalarFieldValue beta.Sphere2  0.333687
+       volScalarFieldValue beta.Sphere3  0.187326
+       volScalarFieldValue beta.Layer1  0.123792
+       volTensorFieldValue K (8.88755e-14 0 0 0 8.88755e-14 0 0 0 8.88755e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.000000 0.044444 -1) (0.052632 0.088889 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.091214
+       volScalarFieldValue beta.Sphere1  0.068651
+       volScalarFieldValue beta.Sphere2  0.367231
+       volScalarFieldValue beta.Sphere3  0.099524
+       volScalarFieldValue beta.Layer1  0.245520
+       volTensorFieldValue K (6.83021e-14 0 0 0 6.83021e-14 0 0 0 6.83021e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.000000 0.088889 -1) (0.052632 0.133333 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.091391
+       volScalarFieldValue beta.Sphere1  0.058779
+       volScalarFieldValue beta.Sphere2  0.162346
+       volScalarFieldValue beta.Sphere3  0.103502
+       volScalarFieldValue beta.Layer1  0.458183
+       volTensorFieldValue K (3.74197e-14 0 0 0 3.74197e-14 0 0 0 3.74197e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.000000 0.133333 -1) (0.052632 0.177778 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.114050
+       volScalarFieldValue beta.Sphere1  0.168409
+       volScalarFieldValue beta.Sphere2  0.358850
+       volScalarFieldValue beta.Sphere3  0.050894
+       volScalarFieldValue beta.Layer1  0.193535
+       volTensorFieldValue K (8.82403e-15 0 0 0 8.82403e-15 0 0 0 8.82403e-15 )
+   );
+}
+
+boxToCell
+{
+   box (0.000000 0.177778 -1) (0.052632 0.222222 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.345030
+       volScalarFieldValue beta.Sphere1  0.317141
+       volScalarFieldValue beta.Sphere2  0.301817
+       volScalarFieldValue beta.Sphere3  0.039009
+       volScalarFieldValue beta.Layer1  0.247443
+       volTensorFieldValue K (9.41255e-15 0 0 0 9.41255e-15 0 0 0 9.41255e-15 )
+   );
+}
+
+boxToCell
+{
+   box (0.000000 0.222222 -1) (0.052632 0.266667 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.457073
+       volScalarFieldValue beta.Sphere1  0.116441
+       volScalarFieldValue beta.Sphere2  0.318239
+       volScalarFieldValue beta.Sphere3  0.344953
+       volScalarFieldValue beta.Layer1  0.158918
+       volTensorFieldValue K (2.39721e-15 0 0 0 2.39721e-15 0 0 0 2.39721e-15 )
+   );
+}
+
+boxToCell
+{
+   box (0.000000 0.266667 -1) (0.052632 0.311111 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.134730
+       volScalarFieldValue beta.Sphere1  0.477245
+       volScalarFieldValue beta.Sphere2  0.341567
+       volScalarFieldValue beta.Sphere3  0.394867
+       volScalarFieldValue beta.Layer1  0.271718
+       volTensorFieldValue K (6.68377e-14 0 0 0 6.68377e-14 0 0 0 6.68377e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.000000 0.311111 -1) (0.052632 0.355556 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.417021
+       volScalarFieldValue beta.Sphere1  0.193388
+       volScalarFieldValue beta.Sphere2  0.293663
+       volScalarFieldValue beta.Sphere3  0.486838
+       volScalarFieldValue beta.Layer1  0.471482
+       volTensorFieldValue K (2.93795e-14 0 0 0 2.93795e-14 0 0 0 2.93795e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.000000 0.355556 -1) (0.052632 0.400000 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.091716
+       volScalarFieldValue beta.Sphere1  0.024278
+       volScalarFieldValue beta.Sphere2  0.248691
+       volScalarFieldValue beta.Sphere3  0.336807
+       volScalarFieldValue beta.Layer1  0.212255
+       volTensorFieldValue K (5.33591e-14 0 0 0 5.33591e-14 0 0 0 5.33591e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.052632 0.000000 -1) (0.105263 0.044444 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.229061
+       volScalarFieldValue beta.Sphere1  0.262307
+       volScalarFieldValue beta.Sphere2  0.388085
+       volScalarFieldValue beta.Sphere3  0.191261
+       volScalarFieldValue beta.Layer1  0.264399
+       volTensorFieldValue K (5.99701e-14 0 0 0 5.99701e-14 0 0 0 5.99701e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.052632 0.044444 -1) (0.105263 0.088889 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.048021
+       volScalarFieldValue beta.Sphere1  0.058887
+       volScalarFieldValue beta.Sphere2  0.399060
+       volScalarFieldValue beta.Sphere3  0.119896
+       volScalarFieldValue beta.Layer1  0.384599
+       volTensorFieldValue K (2.83265e-14 0 0 0 2.83265e-14 0 0 0 2.83265e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.052632 0.088889 -1) (0.105263 0.133333 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.390077
+       volScalarFieldValue beta.Sphere1  0.105899
+       volScalarFieldValue beta.Sphere2  0.167480
+       volScalarFieldValue beta.Sphere3  0.225135
+       volScalarFieldValue beta.Layer1  0.309340
+       volTensorFieldValue K (1.76169e-15 0 0 0 1.76169e-15 0 0 0 1.76169e-15 )
+   );
+}
+
+boxToCell
+{
+   box (0.052632 0.133333 -1) (0.105263 0.177778 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.110883
+       volScalarFieldValue beta.Sphere1  0.280954
+       volScalarFieldValue beta.Sphere2  0.479610
+       volScalarFieldValue beta.Sphere3  0.318600
+       volScalarFieldValue beta.Layer1  0.211728
+       volTensorFieldValue K (8.48172e-14 0 0 0 8.48172e-14 0 0 0 8.48172e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.052632 0.177778 -1) (0.105263 0.222222 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.354697
+       volScalarFieldValue beta.Sphere1  0.110257
+       volScalarFieldValue beta.Sphere2  0.153288
+       volScalarFieldValue beta.Sphere3  0.352372
+       volScalarFieldValue beta.Layer1  0.457677
+       volTensorFieldValue K (8.65046e-14 0 0 0 8.65046e-14 0 0 0 8.65046e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.052632 0.222222 -1) (0.105263 0.266667 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.220325
+       volScalarFieldValue beta.Sphere1  0.093897
+       volScalarFieldValue beta.Sphere2  0.380157
+       volScalarFieldValue beta.Sphere3  0.260935
+       volScalarFieldValue beta.Layer1  0.248641
+       volTensorFieldValue K (7.71026e-14 0 0 0 7.71026e-14 0 0 0 7.71026e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.052632 0.266667 -1) (0.105263 0.311111 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.148756
+       volScalarFieldValue beta.Sphere1  0.101583
+       volScalarFieldValue beta.Sphere2  0.073027
+       volScalarFieldValue beta.Sphere3  0.435081
+       volScalarFieldValue beta.Layer1  0.100020
+       volTensorFieldValue K (8.44193e-14 0 0 0 8.44193e-14 0 0 0 8.44193e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.052632 0.311111 -1) (0.105263 0.355556 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.056462
+       volScalarFieldValue beta.Sphere1  0.127080
+       volScalarFieldValue beta.Sphere2  0.419335
+       volScalarFieldValue beta.Sphere3  0.443574
+       volScalarFieldValue beta.Layer1  0.412649
+       volTensorFieldValue K (5.3296e-14 0 0 0 5.3296e-14 0 0 0 5.3296e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.052632 0.355556 -1) (0.105263 0.400000 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.364265
+       volScalarFieldValue beta.Sphere1  0.031005
+       volScalarFieldValue beta.Sphere2  0.219736
+       volScalarFieldValue beta.Sphere3  0.097489
+       volScalarFieldValue beta.Layer1  0.331228
+       volTensorFieldValue K (8.50576e-14 0 0 0 8.50576e-14 0 0 0 8.50576e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.105263 0.000000 -1) (0.157895 0.044444 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.107928
+       volScalarFieldValue beta.Sphere1  0.267857
+       volScalarFieldValue beta.Sphere2  0.391575
+       volScalarFieldValue beta.Sphere3  0.168163
+       volScalarFieldValue beta.Layer1  0.145703
+       volTensorFieldValue K (7.66194e-14 0 0 0 7.66194e-14 0 0 0 7.66194e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.105263 0.044444 -1) (0.157895 0.088889 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.143569
+       volScalarFieldValue beta.Sphere1  0.045934
+       volScalarFieldValue beta.Sphere2  0.100991
+       volScalarFieldValue beta.Sphere3  0.072006
+       volScalarFieldValue beta.Layer1  0.385971
+       volTensorFieldValue K (1.95184e-14 0 0 0 1.95184e-14 0 0 0 1.95184e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.105263 0.088889 -1) (0.157895 0.133333 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.364538
+       volScalarFieldValue beta.Sphere1  0.440558
+       volScalarFieldValue beta.Sphere2  0.067900
+       volScalarFieldValue beta.Sphere3  0.213742
+       volScalarFieldValue beta.Layer1  0.230262
+       volTensorFieldValue K (9.53441e-14 0 0 0 9.53441e-14 0 0 0 9.53441e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.105263 0.133333 -1) (0.157895 0.177778 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.488185
+       volScalarFieldValue beta.Sphere1  0.320603
+       volScalarFieldValue beta.Sphere2  0.212980
+       volScalarFieldValue beta.Sphere3  0.155268
+       volScalarFieldValue beta.Layer1  0.040879
+       volTensorFieldValue K (1.6235e-14 0 0 0 1.6235e-14 0 0 0 1.6235e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.105263 0.177778 -1) (0.157895 0.222222 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.488648
+       volScalarFieldValue beta.Sphere1  0.284151
+       volScalarFieldValue beta.Sphere2  0.250173
+       volScalarFieldValue beta.Sphere3  0.135267
+       volScalarFieldValue beta.Layer1  0.279208
+       volTensorFieldValue K (5.04575e-14 0 0 0 5.04575e-14 0 0 0 5.04575e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.105263 0.222222 -1) (0.157895 0.266667 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.105525
+       volScalarFieldValue beta.Sphere1  0.436943
+       volScalarFieldValue beta.Sphere2  0.344636
+       volScalarFieldValue beta.Sphere3  0.258655
+       volScalarFieldValue beta.Layer1  0.029052
+       volTensorFieldValue K (3.56666e-14 0 0 0 3.56666e-14 0 0 0 3.56666e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.105263 0.266667 -1) (0.157895 0.311111 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.035144
+       volScalarFieldValue beta.Sphere1  0.477642
+       volScalarFieldValue beta.Sphere2  0.064824
+       volScalarFieldValue beta.Sphere3  0.248111
+       volScalarFieldValue beta.Layer1  0.309712
+       volTensorFieldValue K (2.71953e-15 0 0 0 2.71953e-15 0 0 0 2.71953e-15 )
+   );
+}
+
+boxToCell
+{
+   box (0.105263 0.311111 -1) (0.157895 0.355556 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.379436
+       volScalarFieldValue beta.Sphere1  0.180698
+       volScalarFieldValue beta.Sphere2  0.100063
+       volScalarFieldValue beta.Sphere3  0.130175
+       volScalarFieldValue beta.Layer1  0.479269
+       volTensorFieldValue K (9.13446e-14 0 0 0 9.13446e-14 0 0 0 9.13446e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.105263 0.355556 -1) (0.157895 0.400000 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.359350
+       volScalarFieldValue beta.Sphere1  0.149355
+       volScalarFieldValue beta.Sphere2  0.151664
+       volScalarFieldValue beta.Sphere3  0.296469
+       volScalarFieldValue beta.Layer1  0.081690
+       volTensorFieldValue K (3.38097e-14 0 0 0 3.38097e-14 0 0 0 3.38097e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.157895 0.000000 -1) (0.210526 0.044444 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.409055
+       volScalarFieldValue beta.Sphere1  0.400853
+       volScalarFieldValue beta.Sphere2  0.199420
+       volScalarFieldValue beta.Sphere3  0.339762
+       volScalarFieldValue beta.Layer1  0.457221
+       volTensorFieldValue K (1.34005e-14 0 0 0 1.34005e-14 0 0 0 1.34005e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.157895 0.044444 -1) (0.210526 0.088889 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.300698
+       volScalarFieldValue beta.Sphere1  0.113515
+       volScalarFieldValue beta.Sphere2  0.205267
+       volScalarFieldValue beta.Sphere3  0.339665
+       volScalarFieldValue beta.Layer1  0.373565
+       volTensorFieldValue K (6.29177e-14 0 0 0 6.29177e-14 0 0 0 6.29177e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.157895 0.088889 -1) (0.210526 0.133333 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.177557
+       volScalarFieldValue beta.Sphere1  0.409107
+       volScalarFieldValue beta.Sphere2  0.060739
+       volScalarFieldValue beta.Sphere3  0.113232
+       volScalarFieldValue beta.Layer1  0.445275
+       volTensorFieldValue K (2.42372e-14 0 0 0 2.42372e-14 0 0 0 2.42372e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.157895 0.133333 -1) (0.210526 0.177778 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.072047
+       volScalarFieldValue beta.Sphere1  0.351162
+       volScalarFieldValue beta.Sphere2  0.121078
+       volScalarFieldValue beta.Sphere3  0.132883
+       volScalarFieldValue beta.Layer1  0.201400
+       volTensorFieldValue K (3.59088e-14 0 0 0 3.59088e-14 0 0 0 3.59088e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.157895 0.177778 -1) (0.210526 0.222222 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.353535
+       volScalarFieldValue beta.Sphere1  0.424095
+       volScalarFieldValue beta.Sphere2  0.317412
+       volScalarFieldValue beta.Sphere3  0.142240
+       volScalarFieldValue beta.Layer1  0.404284
+       volTensorFieldValue K (3.20439e-14 0 0 0 3.20439e-14 0 0 0 3.20439e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.157895 0.222222 -1) (0.210526 0.266667 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.114027
+       volScalarFieldValue beta.Sphere1  0.397119
+       volScalarFieldValue beta.Sphere2  0.046083
+       volScalarFieldValue beta.Sphere3  0.107658
+       volScalarFieldValue beta.Layer1  0.266711
+       volTensorFieldValue K (5.97659e-14 0 0 0 5.97659e-14 0 0 0 5.97659e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.157895 0.266667 -1) (0.210526 0.311111 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.388622
+       volScalarFieldValue beta.Sphere1  0.129921
+       volScalarFieldValue beta.Sphere2  0.110196
+       volScalarFieldValue beta.Sphere3  0.175395
+       volScalarFieldValue beta.Layer1  0.185188
+       volTensorFieldValue K (1.68273e-14 0 0 0 1.68273e-14 0 0 0 1.68273e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.157895 0.311111 -1) (0.210526 0.355556 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.231005
+       volScalarFieldValue beta.Sphere1  0.343664
+       volScalarFieldValue beta.Sphere2  0.187966
+       volScalarFieldValue beta.Sphere3  0.484194
+       volScalarFieldValue beta.Layer1  0.384318
+       volTensorFieldValue K (7.65025e-14 0 0 0 7.65025e-14 0 0 0 7.65025e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.157895 0.355556 -1) (0.210526 0.400000 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.164831
+       volScalarFieldValue beta.Sphere1  0.129079
+       volScalarFieldValue beta.Sphere2  0.367079
+       volScalarFieldValue beta.Sphere3  0.189751
+       volScalarFieldValue beta.Layer1  0.478722
+       volTensorFieldValue K (1.00161e-14 0 0 0 1.00161e-14 0 0 0 1.00161e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.210526 0.000000 -1) (0.263158 0.044444 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.131650
+       volScalarFieldValue beta.Sphere1  0.198321
+       volScalarFieldValue beta.Sphere2  0.153899
+       volScalarFieldValue beta.Sphere3  0.393565
+       volScalarFieldValue beta.Layer1  0.170894
+       volTensorFieldValue K (2.76195e-14 0 0 0 2.76195e-14 0 0 0 2.76195e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.210526 0.044444 -1) (0.263158 0.088889 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.120358
+       volScalarFieldValue beta.Sphere1  0.430326
+       volScalarFieldValue beta.Sphere2  0.331519
+       volScalarFieldValue beta.Sphere3  0.076215
+       volScalarFieldValue beta.Layer1  0.401421
+       volTensorFieldValue K (1.73497e-14 0 0 0 1.73497e-14 0 0 0 1.73497e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.210526 0.088889 -1) (0.263158 0.133333 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.311587
+       volScalarFieldValue beta.Sphere1  0.100265
+       volScalarFieldValue beta.Sphere2  0.065115
+       volScalarFieldValue beta.Sphere3  0.412769
+       volScalarFieldValue beta.Layer1  0.449331
+       volTensorFieldValue K (2.95754e-14 0 0 0 2.95754e-14 0 0 0 2.95754e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.210526 0.133333 -1) (0.263158 0.177778 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.441397
+       volScalarFieldValue beta.Sphere1  0.110689
+       volScalarFieldValue beta.Sphere2  0.479239
+       volScalarFieldValue beta.Sphere3  0.351460
+       volScalarFieldValue beta.Layer1  0.192550
+       volTensorFieldValue K (1.00425e-14 0 0 0 1.00425e-14 0 0 0 1.00425e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.210526 0.177778 -1) (0.263158 0.222222 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.267208
+       volScalarFieldValue beta.Sphere1  0.437597
+       volScalarFieldValue beta.Sphere2  0.015414
+       volScalarFieldValue beta.Sphere3  0.338242
+       volScalarFieldValue beta.Layer1  0.090248
+       volTensorFieldValue K (5.55854e-14 0 0 0 5.55854e-14 0 0 0 5.55854e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.210526 0.222222 -1) (0.263158 0.266667 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.016953
+       volScalarFieldValue beta.Sphere1  0.371524
+       volScalarFieldValue beta.Sphere2  0.199084
+       volScalarFieldValue beta.Sphere3  0.207200
+       volScalarFieldValue beta.Layer1  0.038386
+       volTensorFieldValue K (5.8241e-14 0 0 0 5.8241e-14 0 0 0 5.8241e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.210526 0.266667 -1) (0.263158 0.311111 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.189908
+       volScalarFieldValue beta.Sphere1  0.308975
+       volScalarFieldValue beta.Sphere2  0.282641
+       volScalarFieldValue beta.Sphere3  0.020423
+       volScalarFieldValue beta.Layer1  0.098319
+       volTensorFieldValue K (2.89405e-14 0 0 0 2.89405e-14 0 0 0 2.89405e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.210526 0.311111 -1) (0.263158 0.355556 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.086061
+       volScalarFieldValue beta.Sphere1  0.084616
+       volScalarFieldValue beta.Sphere2  0.163679
+       volScalarFieldValue beta.Sphere3  0.227637
+       volScalarFieldValue beta.Layer1  0.063420
+       volTensorFieldValue K (6.12934e-14 0 0 0 6.12934e-14 0 0 0 6.12934e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.210526 0.355556 -1) (0.263158 0.400000 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.343629
+       volScalarFieldValue beta.Sphere1  0.419082
+       volScalarFieldValue beta.Sphere2  0.024313
+       volScalarFieldValue beta.Sphere3  0.247692
+       volScalarFieldValue beta.Layer1  0.359770
+       volTensorFieldValue K (9.41223e-14 0 0 0 9.41223e-14 0 0 0 9.41223e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.263158 0.000000 -1) (0.315789 0.044444 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.482766
+       volScalarFieldValue beta.Sphere1  0.030720
+       volScalarFieldValue beta.Sphere2  0.245631
+       volScalarFieldValue beta.Sphere3  0.355532
+       volScalarFieldValue beta.Layer1  0.016786
+       volTensorFieldValue K (8.46707e-14 0 0 0 8.46707e-14 0 0 0 8.46707e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.263158 0.044444 -1) (0.315789 0.088889 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.243858
+       volScalarFieldValue beta.Sphere1  0.064603
+       volScalarFieldValue beta.Sphere2  0.166462
+       volScalarFieldValue beta.Sphere3  0.021382
+       volScalarFieldValue beta.Layer1  0.455452
+       volTensorFieldValue K (6.52571e-14 0 0 0 6.52571e-14 0 0 0 6.52571e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.263158 0.088889 -1) (0.315789 0.133333 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.267462
+       volScalarFieldValue beta.Sphere1  0.120488
+       volScalarFieldValue beta.Sphere2  0.390936
+       volScalarFieldValue beta.Sphere3  0.265115
+       volScalarFieldValue beta.Layer1  0.409161
+       volTensorFieldValue K (2.44892e-14 0 0 0 2.44892e-14 0 0 0 2.44892e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.263158 0.133333 -1) (0.315789 0.177778 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.102302
+       volScalarFieldValue beta.Sphere1  0.187563
+       volScalarFieldValue beta.Sphere2  0.430627
+       volScalarFieldValue beta.Sphere3  0.309491
+       volScalarFieldValue beta.Layer1  0.455135
+       volTensorFieldValue K (5.09254e-14 0 0 0 5.09254e-14 0 0 0 5.09254e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.263158 0.177778 -1) (0.315789 0.222222 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.469138
+       volScalarFieldValue beta.Sphere1  0.060687
+       volScalarFieldValue beta.Sphere2  0.383266
+       volScalarFieldValue beta.Sphere3  0.360885
+       volScalarFieldValue beta.Layer1  0.407598
+       volTensorFieldValue K (9.52496e-14 0 0 0 9.52496e-14 0 0 0 9.52496e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.263158 0.222222 -1) (0.315789 0.266667 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.453100
+       volScalarFieldValue beta.Sphere1  0.097534
+       volScalarFieldValue beta.Sphere2  0.034105
+       volScalarFieldValue beta.Sphere3  0.308526
+       volScalarFieldValue beta.Layer1  0.133751
+       volTensorFieldValue K (5.5479e-14 0 0 0 5.5479e-14 0 0 0 5.5479e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.263158 0.266667 -1) (0.315789 0.311111 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.088948
+       volScalarFieldValue beta.Sphere1  0.275520
+       volScalarFieldValue beta.Sphere2  0.129448
+       volScalarFieldValue beta.Sphere3  0.135430
+       volScalarFieldValue beta.Layer1  0.310653
+       volTensorFieldValue K (3.56194e-14 0 0 0 3.56194e-14 0 0 0 3.56194e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.263158 0.311111 -1) (0.315789 0.355556 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.495944
+       volScalarFieldValue beta.Sphere1  0.485334
+       volScalarFieldValue beta.Sphere2  0.470984
+       volScalarFieldValue beta.Sphere3  0.224299
+       volScalarFieldValue beta.Layer1  0.454982
+       volTensorFieldValue K (8.4665e-15 0 0 0 8.4665e-15 0 0 0 8.4665e-15 )
+   );
+}
+
+boxToCell
+{
+   box (0.263158 0.355556 -1) (0.315789 0.400000 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.174283
+       volScalarFieldValue beta.Sphere1  0.090302
+       volScalarFieldValue beta.Sphere2  0.308343
+       volScalarFieldValue beta.Sphere3  0.283156
+       volScalarFieldValue beta.Layer1  0.432610
+       volTensorFieldValue K (7.95876e-14 0 0 0 7.95876e-14 0 0 0 7.95876e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.315789 0.000000 -1) (0.368421 0.044444 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.145259
+       volScalarFieldValue beta.Sphere1  0.140019
+       volScalarFieldValue beta.Sphere2  0.178875
+       volScalarFieldValue beta.Sphere3  0.326756
+       volScalarFieldValue beta.Layer1  0.385077
+       volTensorFieldValue K (5.63335e-14 0 0 0 5.63335e-14 0 0 0 5.63335e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.315789 0.044444 -1) (0.368421 0.088889 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.208043
+       volScalarFieldValue beta.Sphere1  0.368024
+       volScalarFieldValue beta.Sphere2  0.293401
+       volScalarFieldValue beta.Sphere3  0.414058
+       volScalarFieldValue beta.Layer1  0.195728
+       volTensorFieldValue K (3.01777e-14 0 0 0 3.01777e-14 0 0 0 3.01777e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.315789 0.088889 -1) (0.368421 0.133333 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.494074
+       volScalarFieldValue beta.Sphere1  0.408834
+       volScalarFieldValue beta.Sphere2  0.209201
+       volScalarFieldValue beta.Sphere3  0.463284
+       volScalarFieldValue beta.Layer1  0.139936
+       volTensorFieldValue K (7.95093e-14 0 0 0 7.95093e-14 0 0 0 7.95093e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.315789 0.133333 -1) (0.368421 0.177778 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.219654
+       volScalarFieldValue beta.Sphere1  0.084074
+       volScalarFieldValue beta.Sphere2  0.063557
+       volScalarFieldValue beta.Sphere3  0.215678
+       volScalarFieldValue beta.Layer1  0.160742
+       volTensorFieldValue K (2.75919e-14 0 0 0 2.75919e-14 0 0 0 2.75919e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.315789 0.177778 -1) (0.368421 0.222222 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.112660
+       volScalarFieldValue beta.Sphere1  0.197232
+       volScalarFieldValue beta.Sphere2  0.318430
+       volScalarFieldValue beta.Sphere3  0.363246
+       volScalarFieldValue beta.Layer1  0.427896
+       volTensorFieldValue K (9.86881e-14 0 0 0 9.86881e-14 0 0 0 9.86881e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.315789 0.222222 -1) (0.368421 0.266667 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.080454
+       volScalarFieldValue beta.Sphere1  0.082881
+       volScalarFieldValue beta.Sphere2  0.251744
+       volScalarFieldValue beta.Sphere3  0.377123
+       volScalarFieldValue beta.Layer1  0.336362
+       volTensorFieldValue K (7.69398e-14 0 0 0 7.69398e-14 0 0 0 7.69398e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.315789 0.266667 -1) (0.368421 0.311111 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.392165
+       volScalarFieldValue beta.Sphere1  0.419491
+       volScalarFieldValue beta.Sphere2  0.033582
+       volScalarFieldValue beta.Sphere3  0.290852
+       volScalarFieldValue beta.Layer1  0.464566
+       volTensorFieldValue K (8.17218e-14 0 0 0 8.17218e-14 0 0 0 8.17218e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.315789 0.311111 -1) (0.368421 0.355556 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.060426
+       volScalarFieldValue beta.Sphere1  0.046869
+       volScalarFieldValue beta.Sphere2  0.274206
+       volScalarFieldValue beta.Sphere3  0.018096
+       volScalarFieldValue beta.Layer1  0.408599
+       volTensorFieldValue K (1.43445e-14 0 0 0 1.43445e-14 0 0 0 1.43445e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.315789 0.355556 -1) (0.368421 0.400000 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.174002
+       volScalarFieldValue beta.Sphere1  0.115858
+       volScalarFieldValue beta.Sphere2  0.466566
+       volScalarFieldValue beta.Sphere3  0.461703
+       volScalarFieldValue beta.Layer1  0.103930
+       volTensorFieldValue K (7.14742e-14 0 0 0 7.14742e-14 0 0 0 7.14742e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.368421 0.000000 -1) (0.421053 0.044444 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.159955
+       volScalarFieldValue beta.Sphere1  0.073299
+       volScalarFieldValue beta.Sphere2  0.394739
+       volScalarFieldValue beta.Sphere3  0.044108
+       volScalarFieldValue beta.Layer1  0.350609
+       volTensorFieldValue K (3.84539e-14 0 0 0 3.84539e-14 0 0 0 3.84539e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.368421 0.044444 -1) (0.421053 0.088889 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.275852
+       volScalarFieldValue beta.Sphere1  0.413652
+       volScalarFieldValue beta.Sphere2  0.263507
+       volScalarFieldValue beta.Sphere3  0.049351
+       volScalarFieldValue beta.Layer1  0.188038
+       volTensorFieldValue K (1.92828e-14 0 0 0 1.92828e-14 0 0 0 1.92828e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.368421 0.088889 -1) (0.421053 0.133333 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.208834
+       volScalarFieldValue beta.Sphere1  0.086773
+       volScalarFieldValue beta.Sphere2  0.238958
+       volScalarFieldValue beta.Sphere3  0.364613
+       volScalarFieldValue beta.Layer1  0.111830
+       volTensorFieldValue K (3.65222e-14 0 0 0 3.65222e-14 0 0 0 3.65222e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.368421 0.133333 -1) (0.421053 0.177778 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.235151
+       volScalarFieldValue beta.Sphere1  0.413436
+       volScalarFieldValue beta.Sphere2  0.345592
+       volScalarFieldValue beta.Sphere3  0.333684
+       volScalarFieldValue beta.Layer1  0.487029
+       volTensorFieldValue K (2.77012e-14 0 0 0 2.77012e-14 0 0 0 2.77012e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.368421 0.177778 -1) (0.421053 0.222222 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.080391
+       volScalarFieldValue beta.Sphere1  0.466584
+       volScalarFieldValue beta.Sphere2  0.327161
+       volScalarFieldValue beta.Sphere3  0.300044
+       volScalarFieldValue beta.Layer1  0.145869
+       volTensorFieldValue K (3.33954e-14 0 0 0 3.33954e-14 0 0 0 3.33954e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.368421 0.222222 -1) (0.421053 0.266667 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.355952
+       volScalarFieldValue beta.Sphere1  0.106162
+       volScalarFieldValue beta.Sphere2  0.358044
+       volScalarFieldValue beta.Sphere3  0.422923
+       volScalarFieldValue beta.Layer1  0.067988
+       volTensorFieldValue K (2.47315e-14 0 0 0 2.47315e-14 0 0 0 2.47315e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.368421 0.266667 -1) (0.421053 0.311111 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.431803
+       volScalarFieldValue beta.Sphere1  0.466217
+       volScalarFieldValue beta.Sphere2  0.401168
+       volScalarFieldValue beta.Sphere3  0.261734
+       volScalarFieldValue beta.Layer1  0.334833
+       volTensorFieldValue K (2.9269e-14 0 0 0 2.9269e-14 0 0 0 2.9269e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.368421 0.311111 -1) (0.421053 0.355556 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.014357
+       volScalarFieldValue beta.Sphere1  0.109987
+       volScalarFieldValue beta.Sphere2  0.432279
+       volScalarFieldValue beta.Sphere3  0.167882
+       volScalarFieldValue beta.Layer1  0.360628
+       volTensorFieldValue K (2.78065e-15 0 0 0 2.78065e-15 0 0 0 2.78065e-15 )
+   );
+}
+
+boxToCell
+{
+   box (0.368421 0.355556 -1) (0.421053 0.400000 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.229462
+       volScalarFieldValue beta.Sphere1  0.022278
+       volScalarFieldValue beta.Sphere2  0.429863
+       volScalarFieldValue beta.Sphere3  0.174427
+       volScalarFieldValue beta.Layer1  0.469342
+       volTensorFieldValue K (1.4783e-14 0 0 0 1.4783e-14 0 0 0 1.4783e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.421053 0.000000 -1) (0.473684 0.044444 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.374860
+       volScalarFieldValue beta.Sphere1  0.022068
+       volScalarFieldValue beta.Sphere2  0.112891
+       volScalarFieldValue beta.Sphere3  0.472273
+       volScalarFieldValue beta.Layer1  0.101731
+       volTensorFieldValue K (5.16337e-14 0 0 0 5.16337e-14 0 0 0 5.16337e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.421053 0.044444 -1) (0.473684 0.088889 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.267619
+       volScalarFieldValue beta.Sphere1  0.316246
+       volScalarFieldValue beta.Sphere2  0.079235
+       volScalarFieldValue beta.Sphere3  0.361253
+       volScalarFieldValue beta.Layer1  0.293544
+       volTensorFieldValue K (5.58765e-14 0 0 0 5.58765e-14 0 0 0 5.58765e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.421053 0.088889 -1) (0.473684 0.133333 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.132000
+       volScalarFieldValue beta.Sphere1  0.286998
+       volScalarFieldValue beta.Sphere2  0.340254
+       volScalarFieldValue beta.Sphere3  0.259278
+       volScalarFieldValue beta.Layer1  0.205909
+       volTensorFieldValue K (4.42595e-14 0 0 0 4.42595e-14 0 0 0 4.42595e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.421053 0.133333 -1) (0.473684 0.177778 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.062721
+       volScalarFieldValue beta.Sphere1  0.013605
+       volScalarFieldValue beta.Sphere2  0.360509
+       volScalarFieldValue beta.Sphere3  0.221581
+       volScalarFieldValue beta.Layer1  0.188091
+       volTensorFieldValue K (5.83243e-14 0 0 0 5.83243e-14 0 0 0 5.83243e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.421053 0.177778 -1) (0.473684 0.222222 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.444863
+       volScalarFieldValue beta.Sphere1  0.159050
+       volScalarFieldValue beta.Sphere2  0.268894
+       volScalarFieldValue beta.Sphere3  0.353273
+       volScalarFieldValue beta.Layer1  0.372733
+       volTensorFieldValue K (3.25922e-14 0 0 0 3.25922e-14 0 0 0 3.25922e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.421053 0.222222 -1) (0.473684 0.266667 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.409574
+       volScalarFieldValue beta.Sphere1  0.201593
+       volScalarFieldValue beta.Sphere2  0.052202
+       volScalarFieldValue beta.Sphere3  0.283277
+       volScalarFieldValue beta.Layer1  0.442507
+       volTensorFieldValue K (2.05193e-14 0 0 0 2.05193e-14 0 0 0 2.05193e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.421053 0.266667 -1) (0.473684 0.311111 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.248484
+       volScalarFieldValue beta.Sphere1  0.347090
+       volScalarFieldValue beta.Sphere2  0.385559
+       volScalarFieldValue beta.Sphere3  0.165095
+       volScalarFieldValue beta.Layer1  0.014078
+       volTensorFieldValue K (4.19061e-14 0 0 0 4.19061e-14 0 0 0 4.19061e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.421053 0.311111 -1) (0.473684 0.355556 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.207904
+       volScalarFieldValue beta.Sphere1  0.163067
+       volScalarFieldValue beta.Sphere2  0.469566
+       volScalarFieldValue beta.Sphere3  0.238892
+       volScalarFieldValue beta.Layer1  0.158303
+       volTensorFieldValue K (8.32511e-14 0 0 0 8.32511e-14 0 0 0 8.32511e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.421053 0.355556 -1) (0.473684 0.400000 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.285627
+       volScalarFieldValue beta.Sphere1  0.286601
+       volScalarFieldValue beta.Sphere2  0.015439
+       volScalarFieldValue beta.Sphere3  0.483233
+       volScalarFieldValue beta.Layer1  0.243943
+       volTensorFieldValue K (8.03619e-14 0 0 0 8.03619e-14 0 0 0 8.03619e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.473684 0.000000 -1) (0.526316 0.044444 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.338330
+       volScalarFieldValue beta.Sphere1  0.325419
+       volScalarFieldValue beta.Sphere2  0.385714
+       volScalarFieldValue beta.Sphere3  0.452719
+       volScalarFieldValue beta.Layer1  0.130646
+       volTensorFieldValue K (7.09249e-14 0 0 0 7.09249e-14 0 0 0 7.09249e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.473684 0.044444 -1) (0.526316 0.088889 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.032237
+       volScalarFieldValue beta.Sphere1  0.325868
+       volScalarFieldValue beta.Sphere2  0.306977
+       volScalarFieldValue beta.Sphere3  0.215315
+       volScalarFieldValue beta.Layer1  0.281561
+       volTensorFieldValue K (5.17683e-14 0 0 0 5.17683e-14 0 0 0 5.17683e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.473684 0.088889 -1) (0.526316 0.133333 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.416991
+       volScalarFieldValue beta.Sphere1  0.209266
+       volScalarFieldValue beta.Sphere2  0.394689
+       volScalarFieldValue beta.Sphere3  0.343372
+       volScalarFieldValue beta.Layer1  0.352076
+       volTensorFieldValue K (1.01815e-14 0 0 0 1.01815e-14 0 0 0 1.01815e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.473684 0.133333 -1) (0.526316 0.177778 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.490793
+       volScalarFieldValue beta.Sphere1  0.060846
+       volScalarFieldValue beta.Sphere2  0.369782
+       volScalarFieldValue beta.Sphere3  0.445923
+       volScalarFieldValue beta.Layer1  0.386731
+       volTensorFieldValue K (5.81516e-15 0 0 0 5.81516e-15 0 0 0 5.81516e-15 )
+   );
+}
+
+boxToCell
+{
+   box (0.473684 0.177778 -1) (0.526316 0.222222 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.346067
+       volScalarFieldValue beta.Sphere1  0.405542
+       volScalarFieldValue beta.Sphere2  0.102821
+       volScalarFieldValue beta.Sphere3  0.475661
+       volScalarFieldValue beta.Layer1  0.419784
+       volTensorFieldValue K (6.39157e-14 0 0 0 6.39157e-14 0 0 0 6.39157e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.473684 0.222222 -1) (0.526316 0.266667 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.190037
+       volScalarFieldValue beta.Sphere1  0.121693
+       volScalarFieldValue beta.Sphere2  0.213336
+       volScalarFieldValue beta.Sphere3  0.026273
+       volScalarFieldValue beta.Layer1  0.043727
+       volTensorFieldValue K (4.09437e-14 0 0 0 4.09437e-14 0 0 0 4.09437e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.473684 0.266667 -1) (0.526316 0.311111 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.389387
+       volScalarFieldValue beta.Sphere1  0.191103
+       volScalarFieldValue beta.Sphere2  0.348992
+       volScalarFieldValue beta.Sphere3  0.348950
+       volScalarFieldValue beta.Layer1  0.207253
+       volTensorFieldValue K (4.78799e-14 0 0 0 4.78799e-14 0 0 0 4.78799e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.473684 0.311111 -1) (0.526316 0.355556 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.135947
+       volScalarFieldValue beta.Sphere1  0.036197
+       volScalarFieldValue beta.Sphere2  0.497368
+       volScalarFieldValue beta.Sphere3  0.101322
+       volScalarFieldValue beta.Layer1  0.049291
+       volTensorFieldValue K (2.49158e-14 0 0 0 2.49158e-14 0 0 0 2.49158e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.473684 0.355556 -1) (0.526316 0.400000 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.117466
+       volScalarFieldValue beta.Sphere1  0.159007
+       volScalarFieldValue beta.Sphere2  0.307945
+       volScalarFieldValue beta.Sphere3  0.133788
+       volScalarFieldValue beta.Layer1  0.378772
+       volTensorFieldValue K (8.72709e-14 0 0 0 8.72709e-14 0 0 0 8.72709e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.526316 0.000000 -1) (0.578947 0.044444 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.402093
+       volScalarFieldValue beta.Sphere1  0.135985
+       volScalarFieldValue beta.Sphere2  0.165644
+       volScalarFieldValue beta.Sphere3  0.104337
+       volScalarFieldValue beta.Layer1  0.453456
+       volTensorFieldValue K (7.59688e-14 0 0 0 7.59688e-14 0 0 0 7.59688e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.526316 0.044444 -1) (0.578947 0.088889 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.421273
+       volScalarFieldValue beta.Sphere1  0.089111
+       volScalarFieldValue beta.Sphere2  0.020462
+       volScalarFieldValue beta.Sphere3  0.082251
+       volScalarFieldValue beta.Layer1  0.033763
+       volTensorFieldValue K (3.90547e-14 0 0 0 3.90547e-14 0 0 0 3.90547e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.526316 0.088889 -1) (0.578947 0.133333 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.442111
+       volScalarFieldValue beta.Sphere1  0.410698
+       volScalarFieldValue beta.Sphere2  0.395488
+       volScalarFieldValue beta.Sphere3  0.029561
+       volScalarFieldValue beta.Layer1  0.466826
+       volTensorFieldValue K (3.23321e-14 0 0 0 3.23321e-14 0 0 0 3.23321e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.526316 0.133333 -1) (0.578947 0.177778 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.461737
+       volScalarFieldValue beta.Sphere1  0.112143
+       volScalarFieldValue beta.Sphere2  0.298678
+       volScalarFieldValue beta.Sphere3  0.136542
+       volScalarFieldValue beta.Layer1  0.350794
+       volTensorFieldValue K (6.46598e-14 0 0 0 6.46598e-14 0 0 0 6.46598e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.526316 0.177778 -1) (0.578947 0.222222 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.385006
+       volScalarFieldValue beta.Sphere1  0.267651
+       volScalarFieldValue beta.Sphere2  0.492199
+       volScalarFieldValue beta.Sphere3  0.378827
+       volScalarFieldValue beta.Layer1  0.027256
+       volTensorFieldValue K (8.23303e-14 0 0 0 8.23303e-14 0 0 0 8.23303e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.526316 0.222222 -1) (0.578947 0.266667 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.178372
+       volScalarFieldValue beta.Sphere1  0.300639
+       volScalarFieldValue beta.Sphere2  0.276840
+       volScalarFieldValue beta.Sphere3  0.119616
+       volScalarFieldValue beta.Layer1  0.458880
+       volTensorFieldValue K (9.25408e-14 0 0 0 9.25408e-14 0 0 0 9.25408e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.526316 0.266667 -1) (0.578947 0.311111 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.344728
+       volScalarFieldValue beta.Sphere1  0.287492
+       volScalarFieldValue beta.Sphere2  0.189594
+       volScalarFieldValue beta.Sphere3  0.285735
+       volScalarFieldValue beta.Layer1  0.480477
+       volTensorFieldValue K (8.66914e-14 0 0 0 8.66914e-14 0 0 0 8.66914e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.526316 0.311111 -1) (0.578947 0.355556 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.137808
+       volScalarFieldValue beta.Sphere1  0.387614
+       volScalarFieldValue beta.Sphere2  0.205802
+       volScalarFieldValue beta.Sphere3  0.056360
+       volScalarFieldValue beta.Layer1  0.182713
+       volTensorFieldValue K (2.28416e-14 0 0 0 2.28416e-14 0 0 0 2.28416e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.526316 0.355556 -1) (0.578947 0.400000 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.330824
+       volScalarFieldValue beta.Sphere1  0.122544
+       volScalarFieldValue beta.Sphere2  0.444851
+       volScalarFieldValue beta.Sphere3  0.133065
+       volScalarFieldValue beta.Layer1  0.372270
+       volTensorFieldValue K (4.60571e-14 0 0 0 4.60571e-14 0 0 0 4.60571e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.578947 0.000000 -1) (0.631579 0.044444 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.137734
+       volScalarFieldValue beta.Sphere1  0.210565
+       volScalarFieldValue beta.Sphere2  0.164395
+       volScalarFieldValue beta.Sphere3  0.378114
+       volScalarFieldValue beta.Layer1  0.205255
+       volTensorFieldValue K (8.64023e-14 0 0 0 8.64023e-14 0 0 0 8.64023e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.578947 0.044444 -1) (0.631579 0.088889 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.374213
+       volScalarFieldValue beta.Sphere1  0.251936
+       volScalarFieldValue beta.Sphere2  0.081133
+       volScalarFieldValue beta.Sphere3  0.416359
+       volScalarFieldValue beta.Layer1  0.444632
+       volTensorFieldValue K (7.5724e-14 0 0 0 7.5724e-14 0 0 0 7.5724e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.578947 0.088889 -1) (0.631579 0.133333 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.188152
+       volScalarFieldValue beta.Sphere1  0.065994
+       volScalarFieldValue beta.Sphere2  0.347701
+       volScalarFieldValue beta.Sphere3  0.241665
+       volScalarFieldValue beta.Layer1  0.189720
+       volTensorFieldValue K (5.80416e-15 0 0 0 5.80416e-15 0 0 0 5.80416e-15 )
+   );
+}
+
+boxToCell
+{
+   box (0.578947 0.133333 -1) (0.631579 0.177778 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.425363
+       volScalarFieldValue beta.Sphere1  0.485358
+       volScalarFieldValue beta.Sphere2  0.364397
+       volScalarFieldValue beta.Sphere3  0.052201
+       volScalarFieldValue beta.Layer1  0.132759
+       volTensorFieldValue K (6.76479e-14 0 0 0 6.76479e-14 0 0 0 6.76479e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.578947 0.177778 -1) (0.631579 0.222222 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.181651
+       volScalarFieldValue beta.Sphere1  0.499245
+       volScalarFieldValue beta.Sphere2  0.330228
+       volScalarFieldValue beta.Sphere3  0.296996
+       volScalarFieldValue beta.Layer1  0.228144
+       volTensorFieldValue K (5.75211e-15 0 0 0 5.75211e-15 0 0 0 5.75211e-15 )
+   );
+}
+
+boxToCell
+{
+   box (0.578947 0.222222 -1) (0.631579 0.266667 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.173996
+       volScalarFieldValue beta.Sphere1  0.443762
+       volScalarFieldValue beta.Sphere2  0.487689
+       volScalarFieldValue beta.Sphere3  0.195857
+       volScalarFieldValue beta.Layer1  0.307714
+       volTensorFieldValue K (3.6365e-14 0 0 0 3.6365e-14 0 0 0 3.6365e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.578947 0.266667 -1) (0.631579 0.311111 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.462965
+       volScalarFieldValue beta.Sphere1  0.210228
+       volScalarFieldValue beta.Sphere2  0.208946
+       volScalarFieldValue beta.Sphere3  0.447871
+       volScalarFieldValue beta.Layer1  0.365230
+       volTensorFieldValue K (1.78224e-14 0 0 0 1.78224e-14 0 0 0 1.78224e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.578947 0.311111 -1) (0.631579 0.355556 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.010918
+       volScalarFieldValue beta.Sphere1  0.198710
+       volScalarFieldValue beta.Sphere2  0.267965
+       volScalarFieldValue beta.Sphere3  0.257965
+       volScalarFieldValue beta.Layer1  0.357014
+       volTensorFieldValue K (1.04202e-14 0 0 0 1.04202e-14 0 0 0 1.04202e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.578947 0.355556 -1) (0.631579 0.400000 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.365719
+       volScalarFieldValue beta.Sphere1  0.450875
+       volScalarFieldValue beta.Sphere2  0.486005
+       volScalarFieldValue beta.Sphere3  0.360308
+       volScalarFieldValue beta.Layer1  0.356390
+       volTensorFieldValue K (8.88598e-14 0 0 0 8.88598e-14 0 0 0 8.88598e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.631579 0.000000 -1) (0.684211 0.044444 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.450723
+       volScalarFieldValue beta.Sphere1  0.104319
+       volScalarFieldValue beta.Sphere2  0.369130
+       volScalarFieldValue beta.Sphere3  0.221050
+       volScalarFieldValue beta.Layer1  0.138997
+       volTensorFieldValue K (4.37022e-14 0 0 0 4.37022e-14 0 0 0 4.37022e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.631579 0.044444 -1) (0.684211 0.088889 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.378624
+       volScalarFieldValue beta.Sphere1  0.343860
+       volScalarFieldValue beta.Sphere2  0.251019
+       volScalarFieldValue beta.Sphere3  0.185829
+       volScalarFieldValue beta.Layer1  0.060267
+       volTensorFieldValue K (1.0589e-14 0 0 0 1.0589e-14 0 0 0 1.0589e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.631579 0.088889 -1) (0.684211 0.133333 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.098823
+       volScalarFieldValue beta.Sphere1  0.034457
+       volScalarFieldValue beta.Sphere2  0.049523
+       volScalarFieldValue beta.Sphere3  0.390310
+       volScalarFieldValue beta.Layer1  0.355221
+       volTensorFieldValue K (1.84866e-14 0 0 0 1.84866e-14 0 0 0 1.84866e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.631579 0.133333 -1) (0.684211 0.177778 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.207628
+       volScalarFieldValue beta.Sphere1  0.124838
+       volScalarFieldValue beta.Sphere2  0.462772
+       volScalarFieldValue beta.Sphere3  0.346689
+       volScalarFieldValue beta.Layer1  0.057014
+       volTensorFieldValue K (2.16318e-14 0 0 0 2.16318e-14 0 0 0 2.16318e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.631579 0.177778 -1) (0.684211 0.222222 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.132901
+       volScalarFieldValue beta.Sphere1  0.484278
+       volScalarFieldValue beta.Sphere2  0.116820
+       volScalarFieldValue beta.Sphere3  0.206542
+       volScalarFieldValue beta.Layer1  0.344759
+       volTensorFieldValue K (4.88294e-14 0 0 0 4.88294e-14 0 0 0 4.88294e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.631579 0.222222 -1) (0.684211 0.266667 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.437685
+       volScalarFieldValue beta.Sphere1  0.038341
+       volScalarFieldValue beta.Sphere2  0.433102
+       volScalarFieldValue beta.Sphere3  0.413119
+       volScalarFieldValue beta.Layer1  0.472457
+       volTensorFieldValue K (1.8588e-14 0 0 0 1.8588e-14 0 0 0 1.8588e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.631579 0.266667 -1) (0.684211 0.311111 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.212844
+       volScalarFieldValue beta.Sphere1  0.433457
+       volScalarFieldValue beta.Sphere2  0.332998
+       volScalarFieldValue beta.Sphere3  0.206667
+       volScalarFieldValue beta.Layer1  0.031534
+       volTensorFieldValue K (9.32911e-14 0 0 0 9.32911e-14 0 0 0 9.32911e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.631579 0.311111 -1) (0.684211 0.355556 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.368315
+       volScalarFieldValue beta.Sphere1  0.094141
+       volScalarFieldValue beta.Sphere2  0.152291
+       volScalarFieldValue beta.Sphere3  0.162047
+       volScalarFieldValue beta.Layer1  0.244018
+       volTensorFieldValue K (6.17599e-14 0 0 0 6.17599e-14 0 0 0 6.17599e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.631579 0.355556 -1) (0.684211 0.400000 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.137940
+       volScalarFieldValue beta.Sphere1  0.445000
+       volScalarFieldValue beta.Sphere2  0.192398
+       volScalarFieldValue beta.Sphere3  0.238156
+       volScalarFieldValue beta.Layer1  0.476198
+       volTensorFieldValue K (5.3244e-14 0 0 0 5.3244e-14 0 0 0 5.3244e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.684211 0.000000 -1) (0.736842 0.044444 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.101726
+       volScalarFieldValue beta.Sphere1  0.426404
+       volScalarFieldValue beta.Sphere2  0.120689
+       volScalarFieldValue beta.Sphere3  0.328902
+       volScalarFieldValue beta.Layer1  0.162778
+       volTensorFieldValue K (6.22491e-14 0 0 0 6.22491e-14 0 0 0 6.22491e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.684211 0.044444 -1) (0.736842 0.088889 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.067204
+       volScalarFieldValue beta.Sphere1  0.223964
+       volScalarFieldValue beta.Sphere2  0.215552
+       volScalarFieldValue beta.Sphere3  0.390165
+       volScalarFieldValue beta.Layer1  0.290597
+       volTensorFieldValue K (8.72009e-14 0 0 0 8.72009e-14 0 0 0 8.72009e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.684211 0.088889 -1) (0.736842 0.133333 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.443208
+       volScalarFieldValue beta.Sphere1  0.462449
+       volScalarFieldValue beta.Sphere2  0.030017
+       volScalarFieldValue beta.Sphere3  0.013138
+       volScalarFieldValue beta.Layer1  0.067071
+       volTensorFieldValue K (7.32404e-14 0 0 0 7.32404e-14 0 0 0 7.32404e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.684211 0.133333 -1) (0.736842 0.177778 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.178439
+       volScalarFieldValue beta.Sphere1  0.219852
+       volScalarFieldValue beta.Sphere2  0.127615
+       volScalarFieldValue beta.Sphere3  0.108495
+       volScalarFieldValue beta.Layer1  0.229589
+       volTensorFieldValue K (1.27861e-14 0 0 0 1.27861e-14 0 0 0 1.27861e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.684211 0.177778 -1) (0.736842 0.222222 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.439955
+       volScalarFieldValue beta.Sphere1  0.063389
+       volScalarFieldValue beta.Sphere2  0.285298
+       volScalarFieldValue beta.Sphere3  0.158101
+       volScalarFieldValue beta.Layer1  0.444332
+       volTensorFieldValue K (6.15308e-14 0 0 0 6.15308e-14 0 0 0 6.15308e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.684211 0.222222 -1) (0.736842 0.266667 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.243937
+       volScalarFieldValue beta.Sphere1  0.446007
+       volScalarFieldValue beta.Sphere2  0.482948
+       volScalarFieldValue beta.Sphere3  0.122564
+       volScalarFieldValue beta.Layer1  0.132006
+       volTensorFieldValue K (6.50847e-14 0 0 0 6.50847e-14 0 0 0 6.50847e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.684211 0.266667 -1) (0.736842 0.311111 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.397654
+       volScalarFieldValue beta.Sphere1  0.424309
+       volScalarFieldValue beta.Sphere2  0.420764
+       volScalarFieldValue beta.Sphere3  0.421987
+       volScalarFieldValue beta.Layer1  0.381523
+       volTensorFieldValue K (9.72734e-14 0 0 0 9.72734e-14 0 0 0 9.72734e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.684211 0.311111 -1) (0.736842 0.355556 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.094957
+       volScalarFieldValue beta.Sphere1  0.229979
+       volScalarFieldValue beta.Sphere2  0.010339
+       volScalarFieldValue beta.Sphere3  0.404239
+       volScalarFieldValue beta.Layer1  0.045089
+       volTensorFieldValue K (7.84869e-14 0 0 0 7.84869e-14 0 0 0 7.84869e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.684211 0.355556 -1) (0.736842 0.400000 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.400754
+       volScalarFieldValue beta.Sphere1  0.403946
+       volScalarFieldValue beta.Sphere2  0.371332
+       volScalarFieldValue beta.Sphere3  0.488398
+       volScalarFieldValue beta.Layer1  0.473372
+       volTensorFieldValue K (2.89187e-14 0 0 0 2.89187e-14 0 0 0 2.89187e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.736842 0.000000 -1) (0.789474 0.044444 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.475355
+       volScalarFieldValue beta.Sphere1  0.264039
+       volScalarFieldValue beta.Sphere2  0.074401
+       volScalarFieldValue beta.Sphere3  0.163122
+       volScalarFieldValue beta.Layer1  0.117017
+       volTensorFieldValue K (8.14704e-14 0 0 0 8.14704e-14 0 0 0 8.14704e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.736842 0.044444 -1) (0.789474 0.088889 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.362030
+       volScalarFieldValue beta.Sphere1  0.440012
+       volScalarFieldValue beta.Sphere2  0.462558
+       volScalarFieldValue beta.Sphere3  0.357995
+       volScalarFieldValue beta.Layer1  0.216746
+       volTensorFieldValue K (2.74499e-14 0 0 0 2.74499e-14 0 0 0 2.74499e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.736842 0.088889 -1) (0.789474 0.133333 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.313765
+       volScalarFieldValue beta.Sphere1  0.176900
+       volScalarFieldValue beta.Sphere2  0.197981
+       volScalarFieldValue beta.Sphere3  0.259841
+       volScalarFieldValue beta.Layer1  0.358100
+       volTensorFieldValue K (5.48822e-14 0 0 0 5.48822e-14 0 0 0 5.48822e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.736842 0.133333 -1) (0.789474 0.177778 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.401342
+       volScalarFieldValue beta.Sphere1  0.102617
+       volScalarFieldValue beta.Sphere2  0.478752
+       volScalarFieldValue beta.Sphere3  0.141844
+       volScalarFieldValue beta.Layer1  0.402821
+       volTensorFieldValue K (8.18207e-14 0 0 0 8.18207e-14 0 0 0 8.18207e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.736842 0.177778 -1) (0.789474 0.222222 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.040993
+       volScalarFieldValue beta.Sphere1  0.200892
+       volScalarFieldValue beta.Sphere2  0.153519
+       volScalarFieldValue beta.Sphere3  0.354590
+       volScalarFieldValue beta.Layer1  0.260085
+       volTensorFieldValue K (7.94682e-14 0 0 0 7.94682e-14 0 0 0 7.94682e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.736842 0.222222 -1) (0.789474 0.266667 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.135110
+       volScalarFieldValue beta.Sphere1  0.120187
+       volScalarFieldValue beta.Sphere2  0.439483
+       volScalarFieldValue beta.Sphere3  0.163258
+       volScalarFieldValue beta.Layer1  0.137911
+       volTensorFieldValue K (2.885e-14 0 0 0 2.885e-14 0 0 0 2.885e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.736842 0.266667 -1) (0.789474 0.311111 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.477049
+       volScalarFieldValue beta.Sphere1  0.466241
+       volScalarFieldValue beta.Sphere2  0.273163
+       volScalarFieldValue beta.Sphere3  0.410523
+       volScalarFieldValue beta.Layer1  0.463458
+       volTensorFieldValue K (9.92527e-14 0 0 0 9.92527e-14 0 0 0 9.92527e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.736842 0.311111 -1) (0.789474 0.355556 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.213634
+       volScalarFieldValue beta.Sphere1  0.487901
+       volScalarFieldValue beta.Sphere2  0.025941
+       volScalarFieldValue beta.Sphere3  0.499437
+       volScalarFieldValue beta.Layer1  0.135862
+       volTensorFieldValue K (8.85356e-14 0 0 0 8.85356e-14 0 0 0 8.85356e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.736842 0.355556 -1) (0.789474 0.400000 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.138839
+       volScalarFieldValue beta.Sphere1  0.353035
+       volScalarFieldValue beta.Sphere2  0.398234
+       volScalarFieldValue beta.Sphere3  0.269819
+       volScalarFieldValue beta.Layer1  0.431989
+       volTensorFieldValue K (8.90868e-14 0 0 0 8.90868e-14 0 0 0 8.90868e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.789474 0.000000 -1) (0.842105 0.044444 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.275493
+       volScalarFieldValue beta.Sphere1  0.380101
+       volScalarFieldValue beta.Sphere2  0.234945
+       volScalarFieldValue beta.Sphere3  0.375986
+       volScalarFieldValue beta.Layer1  0.100196
+       volTensorFieldValue K (2.10098e-14 0 0 0 2.10098e-14 0 0 0 2.10098e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.789474 0.044444 -1) (0.842105 0.088889 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.123418
+       volScalarFieldValue beta.Sphere1  0.278490
+       volScalarFieldValue beta.Sphere2  0.495935
+       volScalarFieldValue beta.Sphere3  0.256900
+       volScalarFieldValue beta.Layer1  0.283476
+       volTensorFieldValue K (7.92947e-14 0 0 0 7.92947e-14 0 0 0 7.92947e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.789474 0.088889 -1) (0.842105 0.133333 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.151050
+       volScalarFieldValue beta.Sphere1  0.076198
+       volScalarFieldValue beta.Sphere2  0.188577
+       volScalarFieldValue beta.Sphere3  0.064006
+       volScalarFieldValue beta.Layer1  0.305059
+       volTensorFieldValue K (7.87533e-14 0 0 0 7.87533e-14 0 0 0 7.87533e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.789474 0.133333 -1) (0.842105 0.177778 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.492504
+       volScalarFieldValue beta.Sphere1  0.302568
+       volScalarFieldValue beta.Sphere2  0.240756
+       volScalarFieldValue beta.Sphere3  0.090406
+       volScalarFieldValue beta.Layer1  0.267669
+       volTensorFieldValue K (4.26471e-14 0 0 0 4.26471e-14 0 0 0 4.26471e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.789474 0.177778 -1) (0.842105 0.222222 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.405407
+       volScalarFieldValue beta.Sphere1  0.084378
+       volScalarFieldValue beta.Sphere2  0.388409
+       volScalarFieldValue beta.Sphere3  0.275781
+       volScalarFieldValue beta.Layer1  0.207180
+       volTensorFieldValue K (4.3619e-14 0 0 0 4.3619e-14 0 0 0 4.3619e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.789474 0.222222 -1) (0.842105 0.266667 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.165234
+       volScalarFieldValue beta.Sphere1  0.085011
+       volScalarFieldValue beta.Sphere2  0.304995
+       volScalarFieldValue beta.Sphere3  0.148720
+       volScalarFieldValue beta.Layer1  0.337259
+       volTensorFieldValue K (7.27226e-14 0 0 0 7.27226e-14 0 0 0 7.27226e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.789474 0.266667 -1) (0.842105 0.311111 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.104379
+       volScalarFieldValue beta.Sphere1  0.338797
+       volScalarFieldValue beta.Sphere2  0.187236
+       volScalarFieldValue beta.Sphere3  0.464136
+       volScalarFieldValue beta.Layer1  0.224328
+       volTensorFieldValue K (4.11777e-14 0 0 0 4.11777e-14 0 0 0 4.11777e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.789474 0.311111 -1) (0.842105 0.355556 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.198544
+       volScalarFieldValue beta.Sphere1  0.099460
+       volScalarFieldValue beta.Sphere2  0.087089
+       volScalarFieldValue beta.Sphere3  0.273831
+       volScalarFieldValue beta.Layer1  0.218272
+       volTensorFieldValue K (8.62652e-14 0 0 0 8.62652e-14 0 0 0 8.62652e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.789474 0.355556 -1) (0.842105 0.400000 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.456813
+       volScalarFieldValue beta.Sphere1  0.244136
+       volScalarFieldValue beta.Sphere2  0.250507
+       volScalarFieldValue beta.Sphere3  0.426045
+       volScalarFieldValue beta.Layer1  0.395433
+       volTensorFieldValue K (2.59996e-14 0 0 0 2.59996e-14 0 0 0 2.59996e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.842105 0.000000 -1) (0.894737 0.044444 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.157650
+       volScalarFieldValue beta.Sphere1  0.184119
+       volScalarFieldValue beta.Sphere2  0.283959
+       volScalarFieldValue beta.Sphere3  0.461522
+       volScalarFieldValue beta.Layer1  0.202838
+       volTensorFieldValue K (5.28017e-14 0 0 0 5.28017e-14 0 0 0 5.28017e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.842105 0.044444 -1) (0.894737 0.088889 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.383994
+       volScalarFieldValue beta.Sphere1  0.254798
+       volScalarFieldValue beta.Sphere2  0.483443
+       volScalarFieldValue beta.Sphere3  0.401756
+       volScalarFieldValue beta.Layer1  0.114458
+       volTensorFieldValue K (4.76889e-14 0 0 0 4.76889e-14 0 0 0 4.76889e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.842105 0.088889 -1) (0.894737 0.133333 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.033368
+       volScalarFieldValue beta.Sphere1  0.039484
+       volScalarFieldValue beta.Sphere2  0.066089
+       volScalarFieldValue beta.Sphere3  0.199426
+       volScalarFieldValue beta.Layer1  0.268124
+       volTensorFieldValue K (3.27731e-14 0 0 0 3.27731e-14 0 0 0 3.27731e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.842105 0.133333 -1) (0.894737 0.177778 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.395117
+       volScalarFieldValue beta.Sphere1  0.495790
+       volScalarFieldValue beta.Sphere2  0.334777
+       volScalarFieldValue beta.Sphere3  0.471439
+       volScalarFieldValue beta.Layer1  0.015434
+       volTensorFieldValue K (1.902e-14 0 0 0 1.902e-14 0 0 0 1.902e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.842105 0.177778 -1) (0.894737 0.222222 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.223702
+       volScalarFieldValue beta.Sphere1  0.097730
+       volScalarFieldValue beta.Sphere2  0.423888
+       volScalarFieldValue beta.Sphere3  0.134203
+       volScalarFieldValue beta.Layer1  0.116143
+       volTensorFieldValue K (1.10861e-14 0 0 0 1.10861e-14 0 0 0 1.10861e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.842105 0.222222 -1) (0.894737 0.266667 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.132524
+       volScalarFieldValue beta.Sphere1  0.446987
+       volScalarFieldValue beta.Sphere2  0.148975
+       volScalarFieldValue beta.Sphere3  0.422267
+       volScalarFieldValue beta.Layer1  0.421148
+       volTensorFieldValue K (8.74969e-14 0 0 0 8.74969e-14 0 0 0 8.74969e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.842105 0.266667 -1) (0.894737 0.311111 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.366376
+       volScalarFieldValue beta.Sphere1  0.212781
+       volScalarFieldValue beta.Sphere2  0.403990
+       volScalarFieldValue beta.Sphere3  0.478574
+       volScalarFieldValue beta.Layer1  0.352983
+       volTensorFieldValue K (2.93643e-14 0 0 0 2.93643e-14 0 0 0 2.93643e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.842105 0.311111 -1) (0.894737 0.355556 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.159729
+       volScalarFieldValue beta.Sphere1  0.342628
+       volScalarFieldValue beta.Sphere2  0.218992
+       volScalarFieldValue beta.Sphere3  0.097106
+       volScalarFieldValue beta.Layer1  0.395496
+       volTensorFieldValue K (6.09339e-14 0 0 0 6.09339e-14 0 0 0 6.09339e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.842105 0.355556 -1) (0.894737 0.400000 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.313552
+       volScalarFieldValue beta.Sphere1  0.468882
+       volScalarFieldValue beta.Sphere2  0.259977
+       volScalarFieldValue beta.Sphere3  0.195693
+       volScalarFieldValue beta.Layer1  0.350935
+       volTensorFieldValue K (8.88758e-14 0 0 0 8.88758e-14 0 0 0 8.88758e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.894737 0.000000 -1) (0.947368 0.044444 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.471858
+       volScalarFieldValue beta.Sphere1  0.155665
+       volScalarFieldValue beta.Sphere2  0.108904
+       volScalarFieldValue beta.Sphere3  0.249797
+       volScalarFieldValue beta.Layer1  0.149807
+       volTensorFieldValue K (6.19129e-14 0 0 0 6.19129e-14 0 0 0 6.19129e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.894737 0.044444 -1) (0.947368 0.088889 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.317657
+       volScalarFieldValue beta.Sphere1  0.291598
+       volScalarFieldValue beta.Sphere2  0.376067
+       volScalarFieldValue beta.Sphere3  0.052475
+       volScalarFieldValue beta.Layer1  0.263579
+       volTensorFieldValue K (4.07487e-14 0 0 0 4.07487e-14 0 0 0 4.07487e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.894737 0.088889 -1) (0.947368 0.133333 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.400004
+       volScalarFieldValue beta.Sphere1  0.058189
+       volScalarFieldValue beta.Sphere2  0.359295
+       volScalarFieldValue beta.Sphere3  0.394629
+       volScalarFieldValue beta.Layer1  0.084327
+       volTensorFieldValue K (1.90142e-14 0 0 0 1.90142e-14 0 0 0 1.90142e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.894737 0.133333 -1) (0.947368 0.177778 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.134921
+       volScalarFieldValue beta.Sphere1  0.319000
+       volScalarFieldValue beta.Sphere2  0.060136
+       volScalarFieldValue beta.Sphere3  0.156825
+       volScalarFieldValue beta.Layer1  0.260181
+       volTensorFieldValue K (9.77535e-14 0 0 0 9.77535e-14 0 0 0 9.77535e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.894737 0.177778 -1) (0.947368 0.222222 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.293055
+       volScalarFieldValue beta.Sphere1  0.322966
+       volScalarFieldValue beta.Sphere2  0.026878
+       volScalarFieldValue beta.Sphere3  0.202703
+       volScalarFieldValue beta.Layer1  0.072763
+       volTensorFieldValue K (6.77713e-14 0 0 0 6.77713e-14 0 0 0 6.77713e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.894737 0.222222 -1) (0.947368 0.266667 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.155728
+       volScalarFieldValue beta.Sphere1  0.442126
+       volScalarFieldValue beta.Sphere2  0.445554
+       volScalarFieldValue beta.Sphere3  0.396932
+       volScalarFieldValue beta.Layer1  0.403697
+       volTensorFieldValue K (4.19543e-14 0 0 0 4.19543e-14 0 0 0 4.19543e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.894737 0.266667 -1) (0.947368 0.311111 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.356035
+       volScalarFieldValue beta.Sphere1  0.313137
+       volScalarFieldValue beta.Sphere2  0.444301
+       volScalarFieldValue beta.Sphere3  0.048500
+       volScalarFieldValue beta.Layer1  0.082180
+       volTensorFieldValue K (3.07339e-15 0 0 0 3.07339e-15 0 0 0 3.07339e-15 )
+   );
+}
+
+boxToCell
+{
+   box (0.894737 0.311111 -1) (0.947368 0.355556 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.208625
+       volScalarFieldValue beta.Sphere1  0.296983
+       volScalarFieldValue beta.Sphere2  0.456382
+       volScalarFieldValue beta.Sphere3  0.013943
+       volScalarFieldValue beta.Layer1  0.332937
+       volTensorFieldValue K (9.79777e-14 0 0 0 9.79777e-14 0 0 0 9.79777e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.894737 0.355556 -1) (0.947368 0.400000 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.267898
+       volScalarFieldValue beta.Sphere1  0.089539
+       volScalarFieldValue beta.Sphere2  0.439015
+       volScalarFieldValue beta.Sphere3  0.303817
+       volScalarFieldValue beta.Layer1  0.263312
+       volTensorFieldValue K (4.01256e-14 0 0 0 4.01256e-14 0 0 0 4.01256e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.947368 0.000000 -1) (1.000000 0.044444 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.219677
+       volScalarFieldValue beta.Sphere1  0.474785
+       volScalarFieldValue beta.Sphere2  0.115896
+       volScalarFieldValue beta.Sphere3  0.103773
+       volScalarFieldValue beta.Layer1  0.119100
+       volTensorFieldValue K (2.04942e-14 0 0 0 2.04942e-14 0 0 0 2.04942e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.947368 0.044444 -1) (1.000000 0.088889 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.210839
+       volScalarFieldValue beta.Sphere1  0.468165
+       volScalarFieldValue beta.Sphere2  0.324083
+       volScalarFieldValue beta.Sphere3  0.124827
+       volScalarFieldValue beta.Layer1  0.208529
+       volTensorFieldValue K (1.59412e-14 0 0 0 1.59412e-14 0 0 0 1.59412e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.947368 0.088889 -1) (1.000000 0.133333 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.063120
+       volScalarFieldValue beta.Sphere1  0.407329
+       volScalarFieldValue beta.Sphere2  0.096537
+       volScalarFieldValue beta.Sphere3  0.257106
+       volScalarFieldValue beta.Layer1  0.435750
+       volTensorFieldValue K (1.42838e-14 0 0 0 1.42838e-14 0 0 0 1.42838e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.947368 0.133333 -1) (1.000000 0.177778 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.438444
+       volScalarFieldValue beta.Sphere1  0.392351
+       volScalarFieldValue beta.Sphere2  0.466870
+       volScalarFieldValue beta.Sphere3  0.087858
+       volScalarFieldValue beta.Layer1  0.062716
+       volTensorFieldValue K (3.54524e-14 0 0 0 3.54524e-14 0 0 0 3.54524e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.947368 0.177778 -1) (1.000000 0.222222 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.496125
+       volScalarFieldValue beta.Sphere1  0.233263
+       volScalarFieldValue beta.Sphere2  0.065082
+       volScalarFieldValue beta.Sphere3  0.150372
+       volScalarFieldValue beta.Layer1  0.044939
+       volTensorFieldValue K (3.3645e-14 0 0 0 3.3645e-14 0 0 0 3.3645e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.947368 0.222222 -1) (1.000000 0.266667 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.011189
+       volScalarFieldValue beta.Sphere1  0.078055
+       volScalarFieldValue beta.Sphere2  0.345438
+       volScalarFieldValue beta.Sphere3  0.371312
+       volScalarFieldValue beta.Layer1  0.113477
+       volTensorFieldValue K (8.22138e-14 0 0 0 8.22138e-14 0 0 0 8.22138e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.947368 0.266667 -1) (1.000000 0.311111 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.022127
+       volScalarFieldValue beta.Sphere1  0.127145
+       volScalarFieldValue beta.Sphere2  0.295246
+       volScalarFieldValue beta.Sphere3  0.457534
+       volScalarFieldValue beta.Layer1  0.463750
+       volTensorFieldValue K (8.53084e-14 0 0 0 8.53084e-14 0 0 0 8.53084e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.947368 0.311111 -1) (1.000000 0.355556 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.150767
+       volScalarFieldValue beta.Sphere1  0.056492
+       volScalarFieldValue beta.Sphere2  0.138549
+       volScalarFieldValue beta.Sphere3  0.405963
+       volScalarFieldValue beta.Layer1  0.228976
+       volTensorFieldValue K (9.25393e-14 0 0 0 9.25393e-14 0 0 0 9.25393e-14 )
+   );
+}
+
+boxToCell
+{
+   box (0.947368 0.355556 -1) (1.000000 0.400000 1);
+   fieldValues
+   (
+       volScalarFieldValue beta  0.304520
+       volScalarFieldValue beta.Sphere1  0.096870
+       volScalarFieldValue beta.Sphere2  0.349242
+       volScalarFieldValue beta.Sphere3  0.394135
+       volScalarFieldValue beta.Layer1  0.191200
+       volTensorFieldValue K (6.2016e-14 0 0 0 6.2016e-14 0 0 0 6.2016e-14 )
+   );
+}
