@@ -1,0 +1,7 @@
+#!/bin/bash
+
+rm *.log 2> /dev/null 
+rm *err 2> /dev/null # err file must be deleted everytime
+rm ./0/K 2> /dev/null
+
+foamCleanTutorials --help

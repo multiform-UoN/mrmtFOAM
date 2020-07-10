@@ -1,0 +1,60 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  6
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+FoamFile
+{
+    version     2.0;
+    format      ascii;
+    class       dictionary;
+    location    "constant";
+    object      multiRateProperties;
+}
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+
+numberExp 2;
+
+adaptiveTimeStepping    true;
+maxCo  0.1;
+
+immobileRegions
+(
+Sphere1
+{
+type          Spheres;
+numberOfTermsInExpansion     $numberExp;
+}
+Sphere2
+{
+type          Spheres;
+numberOfTermsInExpansion     $numberExp;
+}
+Sphere3
+{
+type          Spheres;
+numberOfTermsInExpansion     $numberExp;
+}
+Sphere4
+{
+type          Spheres;
+numberOfTermsInExpansion     $numberExp;
+}
+Sphere5
+{
+type          Spheres;
+numberOfTermsInExpansion     $numberExp;
+}
+Sphere6
+{
+type          Spheres;
+numberOfTermsInExpansion     $numberExp;
+}
+Sphere7
+{
+type          Spheres;
+numberOfTermsInExpansion     $numberExp;
+}
+);

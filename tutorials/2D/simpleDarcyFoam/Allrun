@@ -1,0 +1,52 @@
+#!/bin/bash
+
+rm *err 2> /dev/null # err file must be deleted everytime
+minsize=100
+
+
+ofprog="blockMesh"
+echo "Starting calculation with $ofprog"
+filelog=$(echo $ofprog".log")
+filerr=$(echo $ofprog".err")
+
+$ofprog > $filelog  2> $filerr
+
+filesize=$(stat -c%s "$filerr")
+
+if (( filesize > minsize ));
+  then
+    exit 1
+fi
+
+rm 0/K 2> /dev/null
+cp orig/K.orig 0/.
+
+ofprog="setRandomField"
+echo "Starting calculation with $ofprog"
+filelog=$(echo $ofprog".log")
+filerr=$(echo $ofprog".err")
+ $ofprog  > $filelog  2> $filerr
+
+
+filesize=$(stat -c%s "$filerr")
+
+if (( filesize > minsize ));
+  then
+    exit 2
+fi
+
+rm 0/K.orig
+cp ./orig/p.orig ./0/p
+
+ofprog="simpleDarcyFoam"
+echo "Starting calculation with $ofprog"
+filelog=$(echo $ofprog".log")
+filerr=$(echo $ofprog".err")
+ $ofprog  > $filelog  2> $filerr
+
+filesize=$(stat -c%s "$filerr")
+
+if (( filesize > minsize ));
+  then
+    exit 3
+fi

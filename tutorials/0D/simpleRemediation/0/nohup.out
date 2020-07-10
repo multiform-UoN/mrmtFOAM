@@ -1,0 +1,26 @@
+nohup: ignoring input and appending output to 'nohup.out'
+
+
+--> FOAM FATAL ERROR: 
+cannot find file "/home/pmzmi1/OpenFOAM/Nico/0D_7S_simpleRemediation/0/system/controlDict"
+
+    From function virtual Foam::autoPtr<Foam::ISstream> Foam::fileOperations::uncollatedFileOperation::readStream(Foam::regIOobject&, const Foam::fileName&, const Foam::word&, bool) const
+    in file global/fileOperations/uncollatedFileOperation/uncollatedFileOperation.C at line 538.
+
+FOAM exiting
+
+ec   : multiRateScalarTransportFoam
+Date   : Apr 24 2020
+Time   : 10:48:54
+Host   : "gercphd"
+PID    : 5594
+I/O    : uncollated
+Case   : /home/pmzmi1/OpenFOAM/Nico/0D_7S_simpleRemediation/0
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
