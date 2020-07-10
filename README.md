@@ -43,4 +43,5 @@ There are four main directories:
 REFERENCES:
 
 [1] Federico Municchia, Nicodemo di Pasqualea, Marco Dentzband Matteo Icardi, 2020. Heterogeneous Multi-Rate mass transfer models in OPENFOAM. https://arxiv.org/abs/2006.02704
+
 [2] Haggerty, R., Gorelick, S.M., 1995. Multiple-Rate Mass Transfer for Modeling Diffusion and Surface Reactions in Media with Pore-Scale Het-erogeneity. Water Resources Research 31, 2383–240
