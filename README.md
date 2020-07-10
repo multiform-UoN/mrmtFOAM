@@ -23,6 +23,7 @@ There are four main directories:
 1D. spherical_immobile_region: single immobile region (Sphere)
 
 2D. Two dimensional cases as discussed in [1]. 
+
     Generation of the velocity field:
         First, the flow field must be calculated by using < simpleDarcyFoam > in the simpleDarcyFoam directory. The permeability can be chosen constant or  defined as a random field. An example of a random permeability field (0/K) the same used to generate the results in [1] is included.
  
@@ -32,6 +33,7 @@ There are four main directories:
         R1Sp_KrandOmrandBetaRand: single sphere model, where omega and beta are defined as random fields derived from K. The relevant functionobjects needed to generate beta and gamma are included in the /constant/ directory
 
 3D. Three dimensional case as discussed in [1] (production of the results is similar to 2D case).
+
     The flow field can be generated using the command < simpleDarcyFoam > in the simpleDarcyFoam directory. 
     7Sp_Krand: 7 Spheres models as discussed in [1]. Coeffients for omega and beta are taken from Tab. 2 in [1]
 
