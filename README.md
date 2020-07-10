@@ -6,7 +6,7 @@ Multi-Rate Mass Transfer (MRMT) model for mobile-immobile transport in porous me
 
 # Tutorials
 
-This folder contains the cases analysed in the paper (from now on reffered as [1]):
+This folder contains the cases analysed in the paper (from now on referred as [1]):
 
 "Heterogeneous Multi-Rate mass transfer models in OPENFOAM"
 by Federico Municchi,Nicodemo di Pasquale,Marco Dentz,Matteo Icardi
