@@ -71,7 +71,7 @@ There are four main directories:
 
 
 
-REFERENCES:
+# References
 
 [1] Federico Municchi, Nicodemo di Pasqualea, Marco Dentzband Matteo Icardi, 2020. Heterogeneous Multi-Rate mass transfer models in OPENFOAM. https://arxiv.org/abs/2006.02704
 
