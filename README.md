@@ -1,10 +1,39 @@
 # mrmtFOAM
-Multi-Rate Mass Transfer (MRMT) model for mobile-immobile transport in porous media using the opensource libary OpenFOAM
+Multi-Rate Mass Transfer (MRMT) model for mobile-immobile transport in porous media using the opensource libary OpenFOAM.
+
+Installation
+------------
+
+With OpenFOAM-7 installed simply run the _Allwmake_ script. Use the _Allwclean_ script to clean (uninstall) the library.
+
+# Library structure
+
+Applications
+------------
+
+This folder contains applications created using the _multiContinuumModels_ library and OpenFOAM.
+
+Currently, two applications are available:
+
+* __simpleDarcyFoam__: Creates a velocity field solving the Darcy equation.
+* __multiRateScalarTransportFoam__: Solves the scalar transport equation using the multi-rate model.
+
+Etc
+------------
+
+This folder contains some useful functions.
+
+
+Src
+------------
+
+This folder contains the _multiContinuumModels_ library.
 
 
 
 
-# Tutorials
+Tutorials
+--------
 
 This folder contains the cases analysed in the paper (from now on referred as [1]):
 
@@ -44,6 +73,12 @@ There are four main directories:
 
 REFERENCES:
 
-[1] Federico Municchia, Nicodemo di Pasqualea, Marco Dentzband Matteo Icardi, 2020. Heterogeneous Multi-Rate mass transfer models in OPENFOAM. https://arxiv.org/abs/2006.02704
+[1] Federico Municchi, Nicodemo di Pasqualea, Marco Dentzband Matteo Icardi, 2020. Heterogeneous Multi-Rate mass transfer models in OPENFOAM. https://arxiv.org/abs/2006.02704
 
-[2] Haggerty, R., Gorelick, S.M., 1995. Multiple-Rate Mass Transfer for Modeling Diffusion and Surface Reactions in Media with Pore-Scale Het-erogeneity. Water Resources Research 31, 2383–240
+[2] Municchi F, Icardi M. Generalized multirate models for conjugate transfer in heterogeneous materials. Phys Rev Res. 2020;2(1):https://link.aps.org/doi/10.1103/PhysRevResearch.2.013041
+
+Aknowledgements
+---------------
+
+This work has been funded by the European Union's Horizon 2020
+research and innovation programme, grant agreement number 764531, "SECURe -- Subsurface Evaluation of Carbon capture and storage and Unconventional risks".
